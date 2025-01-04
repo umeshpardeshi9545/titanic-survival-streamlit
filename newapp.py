@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 
 
 # Raw URL to the model
-url = "https://raw.githubusercontent.com/umeshpardeshi9545/titanic-survival-model/main/Titanic_model.pkl"
+url = "https://raw.githubusercontent.com/umeshpardeshi9545/titanic-survival-streamlit/main/Titanic_model.pkl"
 
 # Load the model
 try:
